@@ -1,0 +1,41 @@
+body{
+    /'Cambiar fondo de la página en el body'/
+    background-color: rgb(248, 214, 170);
+
+    /'Cambiar fondo del texto en el body'/
+    color:rgb(88, 88, 16);
+
+    /'Cambiar tipo de letra en el body desde html'/
+}
+
+p{
+    color:rgb(71, 14, 14);
+}
+
+h1{
+    font-size:70px;
+    font-family: 'Rubik Vinyl', cursive;
+}
+
+h2{
+    font-size:50px;
+    font-family: 'Acme', sans-serif;
+}
+
+h3, h4, h5, p{
+    font-size:30px;
+    font-family: 'Acme', sans-serif;
+}
+
+img{
+    width:300px; /'Ancho'/
+    height:250px; /'Altura'/
+    border-radius:25%; /'Redondear'/
+    border-width:30px; /'Contorno'/
+    border-color:green;  /'Colores del contorno'/
+    border-style:dotted; /'Estilo del borde. Pueden ser diferentes (en sentido de las menecillas del reloj)'/
+}
+
+div{
+    background-color: rgb(245, 175, 224);
+}
