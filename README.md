@@ -1,2 +1,2 @@
 # apps-perritos
-Este trabajo es un borrador de la creación de una página web.
+Este trabajo es un borrador de una página web creado en el bootcamp de Tecnolochicas.
